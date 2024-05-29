@@ -1,6 +1,11 @@
-hi i'm zen
+## Hello there, I'm zen
 
-idk what else to say, here's some stats:
+I'm a student currently learning about programming
 
-![stats](https://github-readme-stats.vercel.app/api?username=warofzen&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br>
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=warofzen&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## Language and tools
+
+![My Skills](https://skillicons.dev/icons?i=py,html,css,lua,docker,nix,bash,linux,neovim)
+
+## Currently learning
+
+![My Skills](https://skillicons.dev/icons?i=rust,cpp,js)
